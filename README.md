@@ -1,13 +1,12 @@
 # Hi there! 👋
 
 <div>
-  <div align="center">
+  <div>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFydnl2czRlZXIyeHk5dzZkdmpkMGZhbWYyanhwdWRua2N5N2ZvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 300px; height: auto; border-radius: 50%;" />
 </div>
 
-<div align="center">
   ## I'm Narongrit Suaysom
-</div>
+
 
 ### Skills
 
