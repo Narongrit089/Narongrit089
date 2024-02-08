@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="60" height="36" alt="NodeJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" width="36" height="36" alt="Flutter" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
   <img src="https://i.pinimg.com/originals/5c/98/5e/5c985e0b67da1a2f01c07a30996f128f.png" width="36" height="36" alt="Photoshop" />
@@ -42,13 +42,19 @@
 
 <p align="left"> 
   <a href="https://www.facebook.com/narongrit suaysom" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="32" height="32" alt="Facebook" />
   </a> 
-  <a href="https://www.github.com/Narongrit089" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/2048px-LINE_logo.svg.png" width="30" height="30" alt="Line" />
   </a> 
   <a href="http://www.instagram.com/save_nrr" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="30" height="30" alt="Instagram" />
+  </a>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/480px-X_logo_2023_%28white%29.png" width="30" height="30" alt="X" />
+  </a>
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.pixabay.com/photo/2021/06/15/12/28/tiktok-6338430_1280.png" width="32" height="32" alt="Tiktok" />
   </a>
 </p>
 
