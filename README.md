@@ -1,12 +1,12 @@
 # Hi there! 👋
 
 <div>
-  <div>
+  <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFydnl2czRlZXIyeHk5dzZkdmpkMGZhbWYyanhwdWRua2N5N2ZvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 300px; height: auto; border-radius: 50%;" />
-</div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
 
   ## I'm Narongrit Suaysom
+</div>
 
 
 ### Skills
