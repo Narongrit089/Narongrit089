@@ -5,13 +5,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFydnl2czRlZXIyeHk5dzZkdmpkMGZhbWYyanhwdWRua2N5N2ZvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 300px; height: auto; border-radius: 50%;" />
 <p> <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
 
-  ## I'm Narongrit Suaysom
-</div>
-
-
-### Skills
-
-<p align="left">
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" width="34" height="36" alt="C" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" width="34" height="36" alt="C#" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
@@ -35,6 +29,10 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
   <img src="https://i.pinimg.com/originals/5c/98/5e/5c985e0b67da1a2f01c07a30996f128f.png" width="36" height="36" alt="Photoshop" />
 </p>
+
+### I'm Narongrit Suaysom
+</div>
+
 
 ### Socials
 
