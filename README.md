@@ -25,6 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="50" height="28" alt="NodeJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="28" height="28" alt="MongoDB" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" width="28" height="28" alt="Flutter" />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="28" height="28" alt="Aduno" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="28" height="28" alt="Figma" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="32" height="32" alt="Google Cloud" />
   <img src="https://i.pinimg.com/originals/5c/98/5e/5c985e0b67da1a2f01c07a30996f128f.png" width="32" height="32" alt="Photoshop" />
