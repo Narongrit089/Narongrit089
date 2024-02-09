@@ -6,28 +6,28 @@
 <p> <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" width="34" height="36" alt="C" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" width="34" height="36" alt="C#" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" width="28" height="30" alt="C" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/384px-Logo_C_sharp.svg.png?20221121173824" width="28" height="30" alt="C#" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://dart-code.gallerycdn.vsassets.io/extensions/dart-code/dart-code/3.83.20240201/1706802331870/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Dart" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" width="40" height="34" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="60" height="36" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" width="36" height="36" alt="Flutter" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
-  <img src="https://i.pinimg.com/originals/5c/98/5e/5c985e0b67da1a2f01c07a30996f128f.png" width="36" height="36" alt="Photoshop" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="30" height="32" alt="Java" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="28" height="28" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="32" height="32" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="28" height="28" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="28" height="30" alt="Python" />
+  <img src="https://dart-code.gallerycdn.vsassets.io/extensions/dart-code/dart-code/3.83.20240201/1706802331870/Microsoft.VisualStudio.Services.Icons.Default" width="30" height="30" alt="Dart" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="28" height="28" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="28" height="28" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="28" height="28" alt="TailwindCSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="28" height="28" alt="Vite" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" width="33" height="27" alt="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="28" height="28" alt="Material UI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="50" height="28" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="28" height="28" alt="MongoDB" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" width="28" height="28" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="28" height="28" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="32" height="32" alt="Google Cloud" />
+  <img src="https://i.pinimg.com/originals/5c/98/5e/5c985e0b67da1a2f01c07a30996f128f.png" width="32" height="32" alt="Photoshop" />
 </p>
 
 ### I'm Narongrit Suaysom
