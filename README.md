@@ -5,7 +5,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFydnl2czRlZXIyeHk5dzZkdmpkMGZhbWYyanhwdWRua2N5N2ZvYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 300px; height: auto; border-radius: 50%;" />
 </div>
 <p align="left">
-  <img src="<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </p>
 
   ## I'm Narongrit Suaysom
