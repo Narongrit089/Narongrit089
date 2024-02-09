@@ -38,7 +38,7 @@
   <img src="https://i.pinimg.com/originals/5c/98/5e/5c985e0b67da1a2f01c07a30996f128f.png" width="36" height="36" alt="Photoshop" />
 </p>
 
-## Socials
+### Socials
 
 <p align="left"> 
   <a href="https://www.facebook.com/narongrit suaysom" target="_blank" rel="noreferrer"> 
