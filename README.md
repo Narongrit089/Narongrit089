@@ -64,3 +64,6 @@
 <a href="http://www.github.com/Narongrit089">
   <img src="https://github-readme-stats.vercel.app/api?username=Narongrit089&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="Narongrit089's GitHub stats" />
 </a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
